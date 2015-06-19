@@ -7,3 +7,7 @@ one:
 two:
   title: MyString
   body: MyText
+
+three:
+  title: MyString
+  body: "My Paragraph\r\nMy next paragraph\r\nMy last paragraph"
